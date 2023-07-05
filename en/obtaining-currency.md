@@ -1,25 +1,27 @@
-# Obtaining currency
+# Zdobywanie waluty
 
-## /work – Main source of income. Gives a random amount of money.
+## /work – Główne źrodło dochodu. Daje losową ilość pieniędzy. 
 
-The `/work` command is the main source of income in the bot's economy system. When you execute this command, you will
-receive a random amount of virtual money as a reward. If you are server admin, you can encourage your members to use
-this command regularly to earn funds and actively participate in the server's economy.
+Komenda `/work` jest głównym źródłem dochodu w pluginie ekonomii bota. Uzywając tej komendy, uzyskasz losową ilość pieniędzy.
+Jeśli jesteś administratorem serwera, możesz zachęcić swoich członków, aby używali
+komendę regularnie, aby uzyskiwać środki i aktywnie uczestniczyć w ekonomii serwera.
 
-## /slut – Casual work. There is a chance of failure that results in loss of money.
+## /slut – Praca dorywcza. Istnieje szansa na niepowodzenie, która skutkuje utratą pieniędzy.
 
-The `/slut` command provides users with an opportunity for casual work. Users can execute this command to earn money,
-but keep in mind that there is a chance of failure, which may result in the loss of virtual money.
+Komenda `/slut` oferuje użytkownikom możliwość wzbogacenia się poprzez pracę dorywczą. Użytkownicy mogą użyć tej komendy,
+aby zarobić pieniądze. Pamiętaj, że istnieje szansa na niepowodzenie, która skutkuje ich utratą.
 
-## /crime – Illegal work. Big payout, but also big chance of losing money.
 
-The `/crime` command provides an opportunity for you to engage in illegal work, which offers a higher payout but also
-carries a greater risk of losing money. You can try own luck by executing this command, and the outcome will determine
-whether you've gained or lost virtual money. As server admin encourage users to approach this command with caution,
-as the results here are not guaranteed.
+## /crime – Praca nielegalna. Duży zysk jak i również duża szansa utraty pieniędzy.
 
-## /collect-income – Passive income from owning a specific role/item.
+Komenda `/crime` oferuje możliwość zaangażowania się w nielegalną pracę, która może oferować szansę na wysokie 
+wzbogacenie się, ale również niesie większe ryzyko utraty pieniędzy. Możesz spróbować swojego szczęścia używając
+tej komendy. Wynik końcowy zdeterminuje to, czy uzyskałeś pieniądze czy wręcz przeciwnie - straciłeś je. 
+Jako administrator serwera powinieneć poinformować użytkowników, aby używali tej komendy ostrożnie, ponieważ
+gwarancja sukcesu jest tu niepewna.
 
-The `/collect-income` command enables you to collect money from roles and items you currently own. Some items or roles
-may generate passive income, and executing this command will add the accumulated income to the wallet. It's important
-for users to regularly collect their income to maximize earnings.
+## /collect-income – Dochód pasywny z tytułu posiadania określonej roli/przedmiotu.
+
+Komenda `/collect-income` pozwala na zdobycie pieniędzy z ról oraz przedmiotów, które aktualnie posiadasz. Niektóre
+przedmioty lub role mogą generować pasywny dochód. Użycie tej komendy dodaje łączną wartość dochodu do portfela.
+Ważne jest, aby użytkownicy regularnie pobierali swój dochód, aby maksymalizować zdobywane zarobki.
