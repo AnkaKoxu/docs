@@ -1,29 +1,30 @@
-# Why do you need economy?
+# Dlaczego potrzebujesz ekonomii?
 
-The economy plugin of StartIT provides a fun and interactive way for users to engage with the server and earn
-virtual currency. Here are a few reasons why you might want to use the economy plugin:
+Plugin ekonomii bota StartIT to doskonały pomysł na integrację członków serwera zabawą, umożliwiając im zdobywanie
+wirtualnej waluty. Oto kilka powodów, dla których warto skorzystać z tego pluginu:
 
-1. **Boost server activity:** The economy plugin motivates users to actively participate in the server by providing
-   various ways to earn virtual money. This encourages more interactions and conversations among members, leading to a
-   livelier and more engaging community.
+1. **Podnieś poziom aktywności serwera:** Plugin ekonomii motywuje użytkowników do aktywnego zaangażowania na serwerze,
+umożliwiając im różnorodne możliwości zdobywania wirtualnej waluty. To zachęca do większej interakcji i rozmów między
+członkami, co prowadzi do bardziej zintegrowanej i zaangażowanej społeczności.
 
-2. **Gamify the server experience:** By integrating an economy system, you can introduce a sense of gamification to your
-   server. Users can work, chat, play games, and engage in various activities to earn virtual money. This adds an
-   element of fun and competition, keeping users entertained and invested in the server.
+2. **Dodaj niespotykane elementy zabawy i rywalizacji:** Dodając na serwer plugin ekonomii, dodajesz jednocześnie pewien
+element niespotykanej zabawy. Użytkownicy będą mogli pracować, rozmawiać, grać w gry i uczestniczyć w różnych aktywnościach 
+w celu zdobycia wirtualnej waluty. To dodaje element zabawy i rywalizacji, utrzymując użytkowników zainteresowanych 
+i zaangażowanych w serwer.
 
-3. **Encourage user interaction:** With the economy plugin, users can gain virtual currency by chatting on text channels
-   or talking on voice channels. This feature promotes active participation and helps foster a sense of community among
-   members.
+3. **Zachęć użytkowników do wzajemnej interakcji:** Z pluginem ekonomii, użytkownicy będą mogli zdobywać
+wirtualną walutę poprzez czatowanie lub rozmawianie na kanałach tekstowych jak i głosowych. Ten plugin z pewnością pomoże
+Ci zdobyć aktywne uczestnictwo użytkowników w życiu serwera jak i wzmocnić relacje między jego członkami.
 
-4. **Enable virtual transactions:** The economy plugin allows users to store their virtual currency in different places,
-   such as their wallet or the bank. They can use the currency to purchase items from the shop or trade them with other
-   users. This creates a virtual economy within the server, enabling users to engage in virtual transactions and
-   interactions.
+4. **Wprowadź wirtualną, serwerową gospodarkę:** Plugin ekonomii umożliwia użytkownikom przechowywanie wirtualnej
+waluty w różnych miejscach, takich jak portfel czy bank. Mogą używać tej waluty do zakupu przedmiotów ze sklepu lub
+wymieniać się nimi z innymi. To tworzy wirtualną gospodarkę w obrębie serwera, umożliwiając użytkownikom uczestnictwo
+w wirtualnych transakcjach i interakcjach.
 
-5. **Customizable item system:** The economy plugin includes a comprehensive item system. Users can buy items from the
-   shop, trade them with others, and use them in various ways. Items can have different effects, such as granting roles,
-   providing bonuses, or mimicking real-world businesses. The flexibility of the item system allows you to create unique
-   and interactive experiences for your server members.
+5. **Stwórz własny, modyfikowalny system przedmiotów:** Plugin ekonomii zawiera rozbudowany system przedmiotów. Użytkownicy
+mogą kupować je ze sklepu, wymieniać się nimi nawzajem i używać ich na różne sposoby. Przedmioty mogą być nadane przez role, 
+zapewniać jakieś korzyści na twoim serwerze lub naśladować rzeczywisty świat biznesów. Swoboda w konfiguracji systemu 
+przedmiotów pozwala na stworzenie wyjątkowego, integracyjnego doświadczenia dla członków twojego serwera.
 
-By implementing the economy plugin and leveraging its features, you can enhance user engagement, create a dynamic server
-environment, and provide an enjoyable and interactive experience for your community members.
+Wprowadzając plugin ekonomii i korzystając z dużej gamy jego funkcji, społeczność serwera stanie się bardziej ożywiona,
+tworząc dynamiczne środowisko, w którym członkowie będą się angażować i czerpać przyjemność z wzajemnej interakcji.
